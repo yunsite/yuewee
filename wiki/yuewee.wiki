@@ -1,0 +1,15 @@
+= Introduction =
+
+Yuewee microblogging client supports basic functionalities of reading/writing blog with or without picture, publish oversized blog embedded in the picture, based on sina microblgging platform only now.
+
+
+= Features =
+
+  * Reading update microblogs you subscribed
+  * Writing microblog
+  * Publishing oversized microblog(words > 140) in the picture
+  * Platform independed(support Windows, Linux and Mac OS by nature)
+
+P.S. before your installation, please make sure the Adobe Air had been installed in advance. Enjoy it and please feel free to let me know if have any comments/suggestions or whatever feedback about it.
+
+Thank you
