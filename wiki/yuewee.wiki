@@ -1,11 +1,10 @@
 = Introduction =
 
-Yuewee microblogging client supports basic functionalities of reading/writing blog with or without picture, publish oversized blog embedded in the picture, based on sina microblgging platform only now.
-
+Yuewee microblogging client supports basic functionalities of reading/writing blog with or without picture, publish oversized blog being embedded in the picture, for Sina.com microblgging platform only right now. The platform supporting will be expanded by given resources.
 
 = Features =
 
-  * Reading update microblogs you subscribed
+  * Reading updated microblogs you've subscribed
   * Writing microblog
   * Publishing oversized microblog(words > 140) in the picture
   * Platform independed(support Windows, Linux and Mac OS by nature)
